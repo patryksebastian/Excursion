@@ -1,3 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
 h1 {
-    color: red;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+#phone {
+    margin-top: 30px;
+}
+
+#copyright {
+    text-align: right;
+    color: grey;
 }
